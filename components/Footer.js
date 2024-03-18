@@ -1,7 +1,7 @@
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com/magic-ike/leanfolio'
+      href=''
       target='_blank'
       rel='noreferrer'
       className='link footer__link'
