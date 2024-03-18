@@ -1,12 +1,12 @@
 const about = {
   // each of these properties is optional - they can be left empty or deleted
   // each element in the `description` array will be treated as a separate paragraph
-  name: 'John Doe',
+  name: 'Justin To',
   greetingEmoji: '👋',
-  role: 'Software Engineer',
+  role: 'Software Developer',
   company: 'Acme Labs',
   description: [
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I am a software, game, and web developer. I love to make games, websites, and apps for people to use.',
   ],
   resume: 'https://example.com',
   social: {
@@ -81,7 +81,7 @@ const skills = [
 const contact = {
   // the `email` property is optional - it can be left empty or deleted
   // if so, the "Contact" section won't render
-  email: 'johndoe@email.com',
+  email: 'tocjustin@gmail.com',
 }
 
 export { about, projects, skills, contact }
