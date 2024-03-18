@@ -4,14 +4,14 @@ const about = {
   name: 'Justin To',
   greetingEmoji: '👋',
   role: 'Software Developer',
-  company: 'Acme Labs',
+  company: 'Game Developer',
   description: [
     'I am a software, game, and web developer. I love to make games, websites, and apps for people to use.',
   ],
-  resume: 'https://example.com',
+  resume: 'https://justinto.dev/Resume.pdf',
   social: {
-    github: 'https://github.com',
-    linkedin: 'https://linkedin.com',
+    github: 'https://github.com/tocjustin',
+    linkedin: 'https://www.linkedin.com/in/tojustin/',
   },
 }
 

@@ -30,7 +30,7 @@ const About = () => {
               {company && (
                 <span>
                   {' '}
-                  at <span className='text--strong'>{company}</span>
+                  and <span className='text--strong'>{company}</span>
                 </span>
               )}
               .
