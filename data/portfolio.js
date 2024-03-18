@@ -64,18 +64,17 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if the array is left empty, the "Skills" section won't render
+  'C++',
+  'C#',
+  'C',
+  'Lua',
   'HTML',
   'CSS',
   'JavaScript',
   'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'SQL',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
