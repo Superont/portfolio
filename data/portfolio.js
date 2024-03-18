@@ -21,41 +21,105 @@ const projects = [
   // each element in each `description` array will be treated as a separate paragraph
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 1',
+    name: 'Valiant',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'A first person shooter game within Unreal Engine',
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['C++', 'Lead Programmer', 'UE5', 'Git', 'Networking', 'UI', 'Gameplay'],
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Apocalypse Rising',
+    description: [
+      'A third person survival game within Unreal Engine',
+    ],
+    stack: ['C++', 'Lead Programmer', 'UE5', 'Git'],
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Eternal Life',
+    description: [
+      'A top down action RPG game within Unreal Engine',
+    ],
+    stack: ['C++', 'Lead Programmer', 'UE5', 'Git'],
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Apothecary Night',
+    description: [
+      'A first person horror game within Unity',
+    ],
+    stack: ['C#', 'Lead Programmer', 'Unity', 'Git'],
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Valoblox',
+    description: [
+      'A first person shooter game within Roblox Studio',
+    ],
+    stack: ['Lua', 'Lead Programmer', 'Roblox Studio', 'SQL'],
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Daydream',
+    description: [
+      'A productivity app within Android Studio',
+    ],
+    stack: ['Kotlin', 'Android Studio'],
     sourceCode: 'https://github.com',
     livePreview: 'https://example.com',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 2',
+    name: 'Sentinel',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'A discord bot to manage discord servers',
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Python', 'SQL', 'AWS'],
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Utopia',
+    description: [
+      'An Instagram Clone built in React',
+    ],
+    stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://example.com',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 3',
+    name: 'Nexus',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'An Amazon Clone built in Next.js',
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://example.com',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 4',
+    name: 'Auto Zone',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'A car buying website',
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://example.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Anti-Phishing Outlook Extension',
+    description: [
+      'Designed and developed an Outlook add-in extension that enhances email security by detecting phishing emails',
+    ],
+    stack: ['Python', 'JavaScript', 'CSS', 'HTML'],
     sourceCode: 'https://github.com',
     livePreview: 'https://example.com',
   },
