@@ -6,7 +6,7 @@ const Footer = () => (
       rel='noreferrer'
       className='link footer__link'
     >
-      Created by Ike Ofoegbu
+      Justin To © 2024
     </a>
   </footer>
 )
