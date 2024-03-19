@@ -6,7 +6,7 @@ const about = {
   role: 'Software Developer',
   company: 'Game Developer',
   description: [
-    'I am a software, game, and web developer. I love to make games, websites, and apps for people to use.',
+    'As a passionate software, game, and web developer, I thrive on crafting compelling games, intuitive websites, and user-friendly apps. My goal is to create digital solutions that people love to use and that make a difference.',
   ],
   resume: 'https://justinto.dev/Resume.pdf',
   social: {
@@ -23,7 +23,7 @@ const projects = [
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Valiant',
     description: [
-      'A first person shooter game within Unreal Engine',
+      'A first person tactile shooter game within Unreal Engine',
     ],
     stack: ['C++', 'Lead Programmer', 'UE5', 'Git', 'Networking', 'UI', 'Gameplay'],
     livePreview: 'https://example.com',
@@ -32,7 +32,7 @@ const projects = [
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Apocalypse Rising',
     description: [
-      'A third person survival game within Unreal Engine',
+      'A third person open world survival game within Unreal Engine',
     ],
     stack: ['C++', 'Lead Programmer', 'UE5', 'Git'],
     livePreview: 'https://example.com',
@@ -41,7 +41,7 @@ const projects = [
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Eternal Life',
     description: [
-      'A top down action RPG game within Unreal Engine',
+      'A top down MMO ARPG game within Unreal Engine',
     ],
     stack: ['C++', 'Lead Programmer', 'UE5', 'Git'],
     livePreview: 'https://example.com',
