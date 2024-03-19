@@ -4,9 +4,9 @@ const about = {
   name: 'Justin To',
   greetingEmoji: '👋',
   role: 'Software Developer',
-  company: 'Game Developer',
+  company: '',
   description: [
-    'As a passionate software, game, and web developer, I thrive on crafting compelling games, intuitive websites, and user-friendly apps. My goal is to create digital solutions that people love to use and that make a difference.',
+    'As a passionate software, game, and web developer, I love making games for people to enjoy, intuitive and beutiful websites, and user-friendly useful apps. My goal is to create digital solutions that people love to use and that make a difference. Also interested in Cybersecurity and AI.',
   ],
   resume: 'https://justinto.dev/Resume.pdf',
   social: {
