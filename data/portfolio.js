@@ -71,7 +71,7 @@ const projects = [
       'A productivity app within Android Studio',
     ],
     stack: ['Kotlin', 'Android Studio'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/tocjustin/Daydream',
     livePreview: '',
   },
   {
