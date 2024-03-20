@@ -8,7 +8,7 @@ const about = {
   description: [
     'As a passionate software, game, and web developer, I love making games for people to enjoy, intuitive and beutiful websites, and user-friendly useful apps. My goal is to create digital solutions that people love to use and that make a difference. Also interested in Cybersecurity and AI.',
   ],
-  resume: 'https://justinto.dev/Resume.pdf',
+  resume: 'https://justinto.dev/resume.pdf',
   social: {
     github: 'https://github.com/tocjustin',
     linkedin: 'https://www.linkedin.com/in/tojustin/',
@@ -26,7 +26,7 @@ const projects = [
       'A first person tactile shooter game within Unreal Engine',
     ],
     stack: ['C++', 'Lead Programmer', 'UE5', 'Git', 'Networking', 'UI', 'Gameplay'],
-    livePreview: 'https://example.com',
+    livePreview: 'https://store.steampowered.com/app/2468650/Valiant/',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -35,7 +35,7 @@ const projects = [
       'A third person open world survival game within Unreal Engine',
     ],
     stack: ['C++', 'Lead Programmer', 'UE5', 'Git'],
-    livePreview: 'https://example.com',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -44,7 +44,7 @@ const projects = [
       'A top down MMO ARPG game within Unreal Engine',
     ],
     stack: ['C++', 'Lead Programmer', 'UE5', 'Git'],
-    livePreview: 'https://example.com',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -53,7 +53,7 @@ const projects = [
       'A first person horror game within Unity',
     ],
     stack: ['C#', 'Lead Programmer', 'Unity', 'Git'],
-    livePreview: 'https://example.com',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -62,7 +62,7 @@ const projects = [
       'A first person shooter game within Roblox Studio',
     ],
     stack: ['Lua', 'Lead Programmer', 'Roblox Studio', 'SQL'],
-    livePreview: 'https://example.com',
+    livePreview: 'https://www.roblox.com/games/9818210203/Nexus',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -72,7 +72,7 @@ const projects = [
     ],
     stack: ['Kotlin', 'Android Studio'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -81,7 +81,7 @@ const projects = [
       'A discord bot to manage discord servers',
     ],
     stack: ['Python', 'SQL', 'AWS'],
-    livePreview: 'https://example.com',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -90,8 +90,8 @@ const projects = [
       'An Instagram Clone built in React',
     ],
     stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    sourceCode: '',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -100,8 +100,8 @@ const projects = [
       'An Amazon Clone built in Next.js',
     ],
     stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    sourceCode: '',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -110,8 +110,8 @@ const projects = [
       'A car buying website',
     ],
     stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    sourceCode: '',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
@@ -120,8 +120,8 @@ const projects = [
       'Designed and developed an Outlook add-in extension that enhances email security by detecting phishing emails',
     ],
     stack: ['Python', 'JavaScript', 'CSS', 'HTML'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    sourceCode: 'https://github.com/Dpenate-AD23/AntiPhish-Outlook',
+    livePreview: '',
   },
 ]
 
