@@ -83,7 +83,7 @@ const projects = [
     stack: ['Python', 'SQL', 'AWS'],
     livePreview: '',
   },
-  {
+  /*{
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Utopia',
     description: [
@@ -102,7 +102,7 @@ const projects = [
     stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
     sourceCode: '',
     livePreview: '',
-  },
+  },*/
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Auto Zone',
