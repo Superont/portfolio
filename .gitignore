@@ -24,3 +24,39 @@ yarn-error.log*
 
 .next
 .vercel
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local development
+.env
+*.local
+
+# Logs
+logs
+*.log
+
+# Optional
+.cache
+.temp
+dist
+out
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# PWA files
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
