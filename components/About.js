@@ -14,7 +14,6 @@ const About = () => {
   return (
     <div className='about'>
       <div className='about__pseudo-padding about__pseudo-padding-top' />
-      
 
       {(firstName || role) && (
         <div>
