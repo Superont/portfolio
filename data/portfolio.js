@@ -110,8 +110,8 @@ const projects = [
       'A car buying website',
     ],
     stack: ['JavaScript', 'CSS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com/tocjustin/CarFinder',
-    livePreview: 'carcenter.vercel.app',
+    sourceCode: '',
+    livePreview: '',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
