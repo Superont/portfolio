@@ -59,7 +59,7 @@ const projects = [
     thumbnail: 'images/fixed_glide.png',
     name: 'Valoblox',
     description: [
-      'A first person shooter game within Roblox Studio with over 100 concurrent players',
+      'A first person shooter game within Roblox Studio with over 100 concurrent players and 500k visits',
     ],
     stack: ['Lua', 'Lead Programmer', 'Roblox Studio', 'SQL'],
     livePreview: 'https://www.roblox.com/games/9818210203/Nexus',
